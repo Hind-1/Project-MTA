@@ -1,6 +1,6 @@
 Project Proposal
 
-For project , we were tasked with helping a (fictional) non-profit determine the best times and subway locations in New York City.
+For project , we were tasked with helping a NYPD to determine the times and subway locations that are usually crime happen New York City.
 
 Since the subway is very essential to NYC transport system and millions of people’s lives are connected to the subway system.
 But is the subway is safe ?
