@@ -1,5 +1,5 @@
  ## Metropolitan Transportation Authority (MTA)
-![MTA_NYC_logo svg](https://user-images.githubusercontent.com/72619886/141008943-9bc7cb37-8a32-4ba9-b056-0e58c51319fc.png)
+![MTA_NYC_logo svg](https://user-images.githubusercontent.com/72619886/141009077-9e21e79d-0586-4983-aa09-444149f0d8a7.png)
 
 We were tasked with helping a NYPD to determine the times and subway locations that are usually crime happen New York City.
 
