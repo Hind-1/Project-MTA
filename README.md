@@ -1,4 +1,4 @@
- ## Metropolitan Transportation Authority (MTA)
+ ## Exploratory Data Analysis Metropolitan of Transportation Authority (MTA)
 ![MTA_NYC_logo svg](https://user-images.githubusercontent.com/72619886/141009186-a35a1c99-24cd-4234-893e-64fa448e7cf2.png)
 
 We were tasked with helping a NYPD to determine the times and subway locations that are usually crime happen New York City.
